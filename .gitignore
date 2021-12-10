@@ -249,3 +249,7 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+# global wheat detection
+convertor/
+global-wheat-detection
