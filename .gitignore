@@ -251,5 +251,7 @@ crashlytics-build.properties
 fabric.properties
 
 # global wheat detection
-convertor/
+convertor/*
 global-wheat-detection
+dataset/*
+pre_precessing.py
