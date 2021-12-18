@@ -45,6 +45,11 @@ refer to [pre_precessing.ipynb](pre_precessing.ipynb) to preprocess the dataset:
 - Handled the noisy labels (too big/small boxes etc.)
 - Stratified 5 fold split based on source
 
+## Get Started
+Please refer to [YOLOv5](https://github.com/ultralytics/yolov5).
+
+
+
 ## Results
 Following are the results we got from output files while our model was training.
 <div  align="center">    
