@@ -53,9 +53,8 @@ Please refer to [YOLOv5](https://github.com/ultralytics/yolov5).
 ## Results
 Following are the results we got from output files while our model was training.
 <div  align="center">    
-<img src="./data/image/train_batch0.jpg" width = "200"   align=center />
-<img src="./data/image/train_batch1.jpg" width = "200"   align=center />
-<img src="./data/image/train_batch2.jpg" width = "200"   align=center />
+<img src="./data/image/train_batch0.jpg" width = "378"   align=center />
+<img src="./data/image/train_batch1.jpg" width = "378"   align=center />
 </div>
 
 Here is the PR curve of our model:
