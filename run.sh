@@ -1,1 +1,1 @@
-python train.py --img 1024 --batch 4 --epochs 70 --data data/GlobalWheat_2021.yaml --cfg ./models/yolov5xse.yaml --name yolov5xse_mixup_1024 --device 1 --weights ./yolov5x.pt --hyp data/hyps/hyp.wheatdetection.yaml
+python train.py --img 1024 --batch 4 --epochs 70 --data data/GlobalWheat_2021.yaml --cfg ./models/yolov5xca.yaml --name yolov5xca_1024 --device 9 --weights ./yolov5x.pt
