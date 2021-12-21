@@ -94,7 +94,8 @@ class CoordAtt(nn.Module):
 
         self.conv1 = nn.Conv2d(inp, mip, kernel_size=1, stride=1, padding=0)
         self.bn1 = nn.BatchNorm2d(mip)
-        self.act = h_swish()
+        # self.act = h_swish()
+        self.act = nn.SiLU()
 
         self.conv_h = nn.Conv2d(mip, oup, kernel_size=1, stride=1, padding=0)
         self.conv_w = nn.Conv2d(mip, oup, kernel_size=1, stride=1, padding=0)
