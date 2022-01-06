@@ -46,6 +46,10 @@ refer to [pre_precessing.ipynb](pre_precessing.ipynb) to preprocess the dataset:
 - Stratified 5 fold split based on source
 
 ## Get Started
+The pretrained models are available:
+- [yolov5x](https://drive.google.com/drive/folders/1L_er_PjEEGmBYH2K6HUOvEGCWRtmb8Nf?usp=sharing)
+- [yolov5xse](https://drive.google.com/drive/folders/1GNyv6MnKXOfS25O8J82f3mjU6opqkzh3?usp=sharing)
+
 Please refer to [YOLOv5](https://github.com/ultralytics/yolov5).
 
 
