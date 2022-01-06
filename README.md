@@ -62,6 +62,14 @@ Here is the PR curve of our model:
 <img src="./data/image/PR_curve.png" width = "600"   align=center />
 </div>
 
+we deploy our model with flask as web app.
+
+<p align="center">
+  <img src="data/image/example.gif" height="480px" alt="">
+</p>
+
+You can try to deploy our model with [this repository](https://github.com/Chuxwa/a-simple-flask-deploy-webapp)
+
 ## Acknowledgement
 We thank for the inspiration from [YOLOv5](https://github.com/ultralytics/yolov5) and [SENet](https://github.com/hujie-frank/SENet)
 
